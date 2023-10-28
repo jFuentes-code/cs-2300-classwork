@@ -1,0 +1,2 @@
+The plaintext matrix have to be made up of column vectors of 4
+elements so that we can multiply it by an invertible matrix with row vectors of 4 elements.
